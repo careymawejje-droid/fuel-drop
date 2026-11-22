@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>FuelDrop â€“ Fuel delivered to you</title>
+    <title>FuelDrop Fuel delivered to you</title>
     <!-- DM Sans font from Google Fonts -->
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 
